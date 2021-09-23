@@ -45,7 +45,6 @@ echo "<h1>Bienvenidos a la tienda de Compensar</h1>";
     $Precio2=$_POST["Precio2"];
     $Precio3=$_POST["Precio3"];
     $Descuento=$_POST["Descuento"];
-    $total1=$Precio1*
     $total = $Precio1+$Precio2+$Precio3;
     $Desc=($Descuento/100)*$total; 
     $TotalFinal= $total-$Desc;
