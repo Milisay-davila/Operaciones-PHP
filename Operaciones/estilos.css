@@ -11,6 +11,7 @@
      padding-top: 28px;
      margin-bottom: 30px;
  }
+ /*Estilo para el fomulario*/
  
  h1{
      text-align: center;
@@ -22,6 +23,7 @@
     padding: 12px;
     color: orange;
 }
+ /*Estilo para los principales titulo de la pagina*/
  input{
      width: calc(100%-20px);
      padding: 9px;
@@ -37,6 +39,7 @@
      margin-top: 22px;
      border:none;
  }
+  /*Estilo para el boton de enviar*/
  .bad{
     text-align: center;
     width: 100%;
